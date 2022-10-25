@@ -26,5 +26,19 @@
          "description": "In this course you will learn basic to advance React.React is popular js library.",
          "price": "40$",
          "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--JIe3p0M4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/093ewdrgyf1kedlhzs51.png"
+      },
+      {
+        "id": 5,
+        "Name": "Bootstrap Course",
+        "description": "In this course you will learn basic to advance Bootstrap.Bootstrap is a css framework.",
+        "price": "30$",
+        "img": "https://www.computerhope.com/jargon/b/bootstrap.jpg"
+     },
+     {
+         "id": 6,
+         "Name": "Tailwind Course",
+         "description": "In this course you will learn basic to advance Tailwind.Tailwind is a css framework",
+         "price": "20$",
+         "img": "https://laravelnews.s3.amazonaws.com/images/tailwindcss-1633184775.jpg?w=1366&h=683&q=90&auto=format&fit=crop"
       }
 ]
