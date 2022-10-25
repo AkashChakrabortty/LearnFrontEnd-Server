@@ -5,7 +5,12 @@
        "description": "In this course you will learn basic to advance html.HTML knowledge is needed for markup develop.",
        "price": "15$",
        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhft5PvguzYPA870Z1TDVCRp8_B7LAyg08Cw&usqp=CAU"
-
-    }
-  
+    },
+    {
+        "id": 2,
+        "Name": "CSS Course",
+        "description": "In this course you will learn basic to advance CSS.css knowledge is needed for design.",
+        "price": "25$",
+        "img": "https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"
+     }
 ]
