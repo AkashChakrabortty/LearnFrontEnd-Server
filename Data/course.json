@@ -12,5 +12,19 @@
         "description": "In this course you will learn basic to advance CSS.css knowledge is needed for design.",
         "price": "25$",
         "img": "https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"
-     }
+     },
+     {
+        "id": 3,
+        "Name": "JavaScript Course",
+        "description": "In this course you will learn basic to advance JavaScript.JavaScript knowledge is needed for functionality develop.",
+        "price": "35$",
+        "img": "https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png"
+     },
+     {
+         "id": 4,
+         "Name": "React Course",
+         "description": "In this course you will learn basic to advance React.React is popular js library.",
+         "price": "40$",
+         "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--JIe3p0M4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/093ewdrgyf1kedlhzs51.png"
+      }
 ]
